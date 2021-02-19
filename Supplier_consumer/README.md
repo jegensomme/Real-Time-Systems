@@ -16,5 +16,7 @@ c. Simultaneous recording and simultaneous operation of streams with the Buffer 
 2. Fixing the values ​​of the current time at the beginning and end of work in the "critical section" of the Supplier and the Consumer, show the fulfillment of condition 1c.
 Task 2.
 
+Task 2
+
 Implement the conditions of "Task 1" using a conditional variable mechanism for synchronization.
 
